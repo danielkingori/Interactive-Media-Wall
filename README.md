@@ -13,7 +13,7 @@
   - [Schematic](#schematic)
   - [Preparing Audio Files](#preparing-audio-files)
   - [Assembly](#assembly)
-- [License](license)
+- [License](#license)
 
 ## Overview
 A media art installation based on Arduino that visualizes r0g Agency's media
