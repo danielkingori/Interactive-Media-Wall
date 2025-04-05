@@ -3,9 +3,9 @@ A media art installation based on Arduino that visualizes r0g Agency's media
 productions in seven countries from 2013 to 2023. 
 
 The interactive wall map displays projects like:
-• Migrant Media Network - #MMN (The Gambia, Ghana, Germany)
-• #defyhatenow (Cameroon, South Sudan, Kenya)
-• Access to Skills & Knowledge network - #ASKnet (South Sudan, Uganda, Kenya)
+*• Migrant Media Network - #MMN (The Gambia, Ghana, Germany)
+*• #defyhatenow (Cameroon, South Sudan, Kenya)
+*• Access to Skills & Knowledge network - #ASKnet (South Sudan, Uganda, Kenya)
 
 The installation is an immersive environment in which to explore a variety of
 content, including radio talk shows, podcasts, music, spoken word performances,
