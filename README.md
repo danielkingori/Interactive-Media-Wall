@@ -13,6 +13,7 @@
   - [Schematic](#schematic)
   - [Preparing Audio Files](#preparing-audio-files)
   - [Assembly](#assembly)
+- [License](license)
 
 ## Overview
 A media art installation based on Arduino that visualizes r0g Agency's media
@@ -40,7 +41,7 @@ Coordinator James Javerence talks on "Positive Alternatives at Home" in 2022. Yo
 can also hear Bashir Jay on the #ASKNet South Sudan Podcast, where he talks about the
 role of media in community transformation in 2023 and beyond.
 
-As a highlight of the r0g @ 10 years celebration in 2023, this interactive media
+As a highlight of the [r0g @ 10 years](https://openculture.agency/r0g-10/) celebration in 2023, this interactive media
 wall demonstrates the power of open-source technology and thoughtful design in
 illustrating a decade of transformative media impact on communities.
 
@@ -237,3 +238,6 @@ void loop() {
 
 - Upload the code to the board. Once the IR remote keys and the toggle switches have been configured, update the final copy of the code to the arduino board. Use the remote or toggle switches to see if your audio files are being played.
 - [Power the board using an external adapter or other alternatives](https://docs.arduino.cc/learn/electronics/power-pins)
+
+## License
+[CC-BY-SA 4.0](/LICENSE.md) 2023
