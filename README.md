@@ -1,4 +1,7 @@
 # Interactive Media-Wall
+
+![Installation](assets/main1.jpg)
+
 A media art installation based on Arduino that visualizes r0g Agency's media
 productions in seven countries from 2013 to 2023. 
 
@@ -39,7 +42,6 @@ illustrating a decade of transformative media impact on communities.
   - [Preparing Audio Files](#preparing-audio-files)
   - [Assembly](#assembly)
 
-![Installation](assets/main1.jpg)
 
 ## Technical Documentation
 
