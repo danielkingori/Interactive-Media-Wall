@@ -2,6 +2,19 @@
 
 ![Installation](assets/main1.jpg)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Technical Documentation](#technical-documentation) 
+  - [Tools](#tools)
+  - [Components](#components)
+    - [Software](#software)
+    - [Hardware](#hardware)
+  - [Schematic](#schematic)
+  - [Preparing Audio Files](#preparing-audio-files)
+  - [Assembly](#assembly)
+
+## Overview
 A media art installation based on Arduino that visualizes r0g Agency's media
 productions in seven countries from 2013 to 2023. 
 
@@ -30,18 +43,6 @@ role of media in community transformation in 2023 and beyond.
 As a highlight of the r0g @ 10 years celebration in 2023, this interactive media
 wall demonstrates the power of open-source technology and thoughtful design in
 illustrating a decade of transformative media impact on communities.
-
-## Table of Contents
-
-- [Technical Documentation](#technical-documentation)
-  - [Tools](#tools)
-  - [Components](#components)
-    - [Software](#software)
-    - [Hardware](#hardware)
-  - [Schematic](#schematic)
-  - [Preparing Audio Files](#preparing-audio-files)
-  - [Assembly](#assembly)
-
 
 ## Technical Documentation
 
