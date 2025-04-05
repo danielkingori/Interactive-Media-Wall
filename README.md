@@ -1,4 +1,32 @@
 # Interactive Media-Wall
+A media art installation based on Arduino that visualizes r0g Agency's media
+productions in seven countries from 2013 to 2023. 
+
+The interactive wall map displays projects like:
+• Migrant Media Network - #MMN (The Gambia, Ghana, Germany)
+• #defyhatenow (Cameroon, South Sudan, Kenya)
+• Access to Skills & Knowledge network - #ASKnet (South Sudan, Uganda, Kenya)
+
+The installation is an immersive environment in which to explore a variety of
+content, including radio talk shows, podcasts, music, spoken word performances,
+jingles, and interviews.
+
+The media wall can be controlled by the users through remote control or toggle
+switches mounted on the installation itself. It is possible to listen to specific media
+productions directly by switching a toggle switch. The installation can be operated
+fully offline, with only a power supply connection.
+
+For instance, you can groove to '#ThinkB4UClick' Spoken Word by Mac Alunge produced
+by #defyhatenow Cameroon 2021, or listen to the LetsTalk Podcast with Yine
+Yenki from GoGirls ICT by #defyhatenow South Sudan 2018. You can also listen to a
+radio talk show on Dela Radio in the Volta Region, Ghana, as #MMN Local
+Coordinator James Javerence talks on "Positive Alternatives at Home" in 2022. You
+can also hear Bashir Jay on the #ASKNet South Sudan Podcast, where he talks about the
+role of media in community transformation in 2023 and beyond.
+
+As a highlight of the r0g @ 10 years celebration in 2023, this interactive media
+wall demonstrates the power of open-source technology and thoughtful design in
+illustrating a decade of transformative media impact on communities.
 
 ## Table of Contents
 
